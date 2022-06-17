@@ -9,7 +9,7 @@
     "robotjs": "^0.6.0"
   },
   "devDependencies": {
-    "electron": "^10.1.1",
+    "electron": "^15.5.5",
     "electron-rebuild": "^2.0.2",
     "node-sass": "^4.14.1"
   },
